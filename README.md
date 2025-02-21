@@ -7,6 +7,10 @@ A todo list application with Rust backend (Actix-web) and React frontend.
 - Backend runs on: http://localhost:8080
 - Frontend runs on: http://localhost:3000
 
+<div align="center">
+  <img src="Screenshot 2025-02-21 095727.png" alt="Todo App Screenshot" width="600"/>
+</div>
+
 ## API Routes
 
 | Method | Endpoint              | Description      |
